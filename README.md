@@ -1,7 +1,7 @@
 ##**Overview**
 
 This repository constains the solutions to 3 set of exercices created to help
-future Skylab codres students to get the basic foundations to become succesful
+future Skylab coders students to get the basic foundations to become succesful
 fron-end developers.
 
 The sets are divided in three categories:
